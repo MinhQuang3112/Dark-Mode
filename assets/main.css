@@ -30,13 +30,13 @@ body{
 #darkmode::after{
     content: '';
     position: absolute;
-    background-color: #fff;
-    width: 55%;
-    height: 100px;
-    top:-82px;
-    right:50%;
-    transform: translateX(50%);
-    border-radius: 18px;
+    background-color: #d1d0d0;
+    width: 140px;
+    height:28px;
+    top: -12px;
+    left:50%;
+    transform:translateX(-50%);
+    border-radius:20px;
 }
 .header, .time{
     font-size: 30px;
